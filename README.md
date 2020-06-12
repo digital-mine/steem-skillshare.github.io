@@ -1,2 +1,2 @@
 # digital-mine.github.io
-My website
+simple website
