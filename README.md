@@ -1,2 +1,2 @@
-# digital-mine.github.io
+# steem-skillshare.github.io
 simple website
